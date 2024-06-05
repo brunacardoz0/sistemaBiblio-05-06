@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(111, 126, 84);
+}
+
+.titulo{
+    margin: 2%;
+    text-align: center;
+    color: bisque;
+}
+
+.form-control{
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.form-text{
+    color: bisque;
+}
+
